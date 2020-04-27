@@ -1,5 +1,8 @@
 <h1>Taskmanager v1.0</h1>
 
+<p>Ссылка на рабочий проект:</p>
+<a href="http://taskmanager.happysites.ru/"><p>http://taskmanager.happysites.ru</p></a>
+
 Необходимо создать приложение-задачник.
 Задачи состоят из:
 - имени пользователя;
