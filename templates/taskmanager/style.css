@@ -1,0 +1,15 @@
+.redText {
+	color: red;
+}
+
+.form-control {
+	margin: 15px auto;
+}
+
+.colBtn, .logBtn {
+	margin-bottom: 5px;
+}
+
+.taskTable a {
+	padding: 0;
+}
